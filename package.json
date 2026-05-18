@@ -1,0 +1,22 @@
+{
+  "name": "agora-esprit-critique-eloquence",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Jeu web statique sur l'esprit critique, l'argumentation et l'éloquence.",
+  "type": "module",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve .",
+    "check": "node --check app.js"
+  },
+  "keywords": [
+    "esprit-critique",
+    "eloquence",
+    "argumentation",
+    "jeu",
+    "education"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {}
+}
